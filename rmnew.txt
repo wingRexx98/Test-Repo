@@ -1,0 +1,26 @@
+[33mcommit d877d91b0779c0cc371caeb0693c350f2ea7b467[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: da896df 4f1921d
+Author: wingRexx98 <47964600+wingRexx98@users.noreply.github.com>
+Date:   Tue Oct 22 12:53:45 2019 +0700
+
+    Merge pull request #1 from wingRexx98/test-branch
+    
+    Create new stuff.txt
+
+[33mcommit 4f1921de818c6c82531a87fb779b39e52b27e85c[m
+Author: wingRexx98 <overlordanie1998@gmail.com>
+Date:   Tue Oct 22 12:51:59 2019 +0700
+
+    Create new stuff.txt
+
+[33mcommit da896dfaa62df2a757a81af2c6dc5642a69e94e5[m
+Author: wingRexx98 <overlordanie1998@gmail.com>
+Date:   Tue Oct 22 11:39:57 2019 +0700
+
+    first commit
+
+[33mcommit b4387fe154aed9230856283a2a4fcf2706af81ce[m
+Author: wingRexx98 <47964600+wingRexx98@users.noreply.github.com>
+Date:   Tue Oct 22 10:25:35 2019 +0700
+
+    Initial commit
